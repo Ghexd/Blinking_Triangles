@@ -8,4 +8,4 @@ I took inspiration from [this](https://codepen.io/msurguy/pen/wvGgzN) triangular
 
 ## Preview
 
-![BlinkingTriangle.gif](./assets/Blinking_Triangles.gif)
+![BlinkingTriangle.gif](./assets/BlinkingTriangles.gif)
