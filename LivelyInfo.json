@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Blinking Triangles",
+  "Thumbnail": "./assets/BlinkingTriangles.png",
+  "Preview": "./assets/BlinkingTriangles.gif",
+  "Desc": "Triangle pattern generator that reacts with system sounds.",
+  "Author": "Ammando",
+  "License": null,
+  "Contact": null,
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--audio",
+  "IsAbsolutePath": false
+}
