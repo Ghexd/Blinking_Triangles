@@ -1,0 +1,20 @@
+{
+  "mainColor": {
+    "text": "Main Color",
+    "type": "color",
+    "value": "#0F1923"
+  },
+  "blinkColor": {
+    "text": "Flash Color",
+    "type": "color",
+    "value": "#234B6E"
+  },
+  "trianglesNumber": {
+    "max": 1000,
+    "min": 1,
+    "tick": 1000,
+    "text": "Slice Factor",
+    "type": "slider",
+    "value": 500.0
+  }
+}
